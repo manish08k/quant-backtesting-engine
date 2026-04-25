@@ -1,0 +1,9 @@
+=== RELIANCE.NS Backtest Report ===
+Trades:        15
+Win Rate:      0.0%
+Expectancy:    ₹-332.63
+Profit Factor: 0.00
+Sharpe Ratio:  -30.952
+Max Drawdown:  -0.5%
+Total Return:  -0.5%
+Final Capital: ₹995,011
